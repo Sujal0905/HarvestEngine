@@ -1,4 +1,4 @@
-# AgroNex
+# HarvestEngine
 Agriculture is one of the most important parts of our daily life, but farmers face many problems such as water shortage, high electricity costs, changing weather, and difficulty in choosing the right crop. Many farmers still depend mainly on their experience to decide when to water their crops or which crop to grow. Because of this, water and electricity can be wasted, and crop production may be affected.
 
 Our idea is to build a **Smart Agriculture platform** that helps farmers make better decisions using data and AI/ML. The farmer can enter basic information such as location, crop type, soil type, and farm area. The system can also use weather information and, in the future, data from soil moisture and temperature sensors.
